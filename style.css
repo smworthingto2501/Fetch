@@ -13,8 +13,16 @@ label {
     font-family: sans-serif;
 }
 
-input, select {
+input {
     width: 50%;
+    padding: 0.5em;
+    margin-bottom: 1em;
+    border-radius: 0.25em;
+    border: 1px solid #ccc;
+}
+
+select {
+    width: 70%;
     padding: 0.5em;
     margin-bottom: 1em;
     border-radius: 0.25em;
