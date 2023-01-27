@@ -10,6 +10,8 @@ label {
     display: block;
     margin-bottom: 0.5em;
     font-weight: bold;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
 }
 
 input, select {
