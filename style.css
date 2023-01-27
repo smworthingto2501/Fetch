@@ -6,6 +6,13 @@ form {
     border-radius: 1em;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 label {
     display: block;
     margin-bottom: 0.5em;
