@@ -27,3 +27,7 @@ input, select {
     border-radius: 0.25em;
     cursor: pointer;
 }
+
+input[type="submit"].custom-submit-button:hover {
+  border: 1px solid black;
+}
