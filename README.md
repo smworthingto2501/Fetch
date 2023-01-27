@@ -17,5 +17,6 @@
 * Born in Chicago, Illinois :cityscape:
 
 ### External Links 
-[LinkedIn](https://www.linkedin.com/in/sarah-worthington-8bb421172/)
-[Portfolio](https://sarahmworthington.wixsite.com/worthington)
+[LinkedIn](https://www.linkedin.com/in/sarah-worthington-8bb421172/)  
+
+[Portfolio](https://sarahmworthington.wixsite.com/worthington/)
