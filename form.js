@@ -42,7 +42,7 @@ const data = JSON.stringify(formData);
   // Send form data to endpoint
   fetch("https://frontend-take-home.fetchrewards.com/form", {
     method: "POST",
-    body: JSON.stringify(data),
+    body: data,
     headers: {
       'Content-Type': 'application/json'
     }
