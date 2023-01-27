@@ -34,3 +34,11 @@ button:hover {
   background-color: #4CAF50;
   color: white;
 }
+
+.custom-submit-button{
+    padding: 0.5em 1em;
+    border: none;
+    border-radius: 0.25em;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
