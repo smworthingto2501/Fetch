@@ -10,3 +10,6 @@
 * Applying for Frontend Engineer Apprenticeship 
 * UW Madison 2022 Graduate
 * Born in Chicago, Illinois
+
+### External Links 
+[Named Link]([http://www.google.fr/](https://www.linkedin.com/in/sarah-worthington-8bb421172/) "LinkedIn") 
