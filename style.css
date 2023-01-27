@@ -1,7 +1,8 @@
 form {
-    width: 50%;
-    margin: 0 auto;
-    padding: 1em;
+    width: 40%;
+    margin: 0;
+    margin-left : 25%;
+    padding: 2em;
     border: 1px solid #ccc;
     border-radius: 1em;
 }
@@ -24,7 +25,8 @@ label {
 }
 
 input {
-    width: 70%;
+    width: 90%;
+  
     padding: 0.5em;
     margin-bottom: 1em;
     border-radius: 0.25em;
@@ -32,7 +34,7 @@ input {
 }
 
 select {
-    width: 70%;
+    width: 93%;
     padding: 0.5em;
     margin-bottom: 1em;
     border-radius: 0.25em;
@@ -40,6 +42,10 @@ select {
 }
 
 .custom-submit-button{
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    width: 20%;
     padding: 0.5em 1em;
     border: none;
     border-radius: 0.25em;
