@@ -7,9 +7,10 @@
 - [x] Be hosted on the internet
 
 ## About Sarah Worthington
-* Applying for Frontend Engineer Apprenticeship 
-* UW Madison 2022 Graduate
-* Born in Chicago, Illinois
+* Applying for Frontend Engineer Apprenticeship :dog:
+* UW Madison 2022 Graduate :mortar_board:
+* Born in Chicago, Illinois :cityscape:
 
 ### External Links 
-[Named Link]([http://www.google.fr/](https://www.linkedin.com/in/sarah-worthington-8bb421172/) "LinkedIn") 
+[LinkedIn](https://www.linkedin.com/in/sarah-worthington-8bb421172/)
+[Portfolio](https://sarahmworthington.wixsite.com/worthington)
