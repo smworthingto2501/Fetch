@@ -38,6 +38,7 @@ select {
     margin-bottom: 1em;
     border-radius: 0.25em;
     border: 1px solid #ccc;
+    font-family: "Lexend";
 }
 
 .custom-submit-button{
