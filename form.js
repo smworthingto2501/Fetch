@@ -27,12 +27,17 @@ fetch("https://frontend-take-home.fetchrewards.com/form")
 form.addEventListener("submit", event => {
   event.preventDefault();
 
-  // Get form data
-  const formData = new FormData(form);
-  const data = {};
-  formData.forEach((value, key) => {
-    data[key] = value;
-  });
+// get the form data
+const formData = {
+    name: document.getElementById("name").value,
+    email: document.getElementById("email").value,
+    password: document.getElementById("password").value,
+    occupation: document.getElementById("occupation").value,
+    state: document.getElementById("state").value
+};
+
+// convert form data to JSON
+const data = JSON.stringify(formData);
 
   // Send form data to endpoint
   fetch("https://frontend-take-home.fetchrewards.com/form", {
